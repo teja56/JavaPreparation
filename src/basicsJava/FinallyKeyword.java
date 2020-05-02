@@ -46,10 +46,8 @@ public class FinallyKeyword {
 			FileInputStream ip =new FileInputStream("");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

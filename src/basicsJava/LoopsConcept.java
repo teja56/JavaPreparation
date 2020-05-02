@@ -1,6 +1,6 @@
 package basicsJava;
 
-public class LoppsConcept {
+public class LoopsConcept {
 
 	public static void main(String[] args) {
      
